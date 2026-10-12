@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intern-student-portal/static/css/main.e6c13ad2.css",
+    "main.js": "/Intern-student-portal/static/js/main.e5e2b25e.js",
+    "index.html": "/Intern-student-portal/index.html",
+    "main.e6c13ad2.css.map": "/Intern-student-portal/static/css/main.e6c13ad2.css.map",
+    "main.e5e2b25e.js.map": "/Intern-student-portal/static/js/main.e5e2b25e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5e2b25e.js"
+  ]
+}
